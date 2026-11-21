@@ -30,7 +30,7 @@ A modern, dark-themed task management web application built with HTML, CSS, and 
 ## Project Structure
 
 ```
-todo/
+To-DoList/
 ├── index.html
 ├── README.md 
 ├── Styles/
@@ -47,8 +47,8 @@ No build tools or dependencies required.
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/CodeAlpha_To-DoList.git
-cd CodeAlpha_To-DoList
+git clone https://github.com/your-username/To-DoList.git
+cd To-DoList
 ```
 
 **2. Open in your browser**
