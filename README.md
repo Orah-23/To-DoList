@@ -47,7 +47,7 @@ No build tools or dependencies required.
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/To-DoList.git
+git clone https://github.com/Orah-23/To-DoList.git
 cd To-DoList
 ```
 
